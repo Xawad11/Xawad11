@@ -10,7 +10,7 @@ I thrive on bridging the gap between low-level hardware constraints, traditional
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php,sql,react,nodejs,express,mongodb,postgres,git,github,githubactions,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,php,react,nodejs,express,mongodb,postgres,git,github,githubactions,vite,tailwind" />
   </a>
 </p>
 
