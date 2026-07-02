@@ -19,7 +19,14 @@ I thrive on bridging the gap between low-level hardware constraints, traditional
 | **DevOps & Infrastructure** | Git, GitHub, Render (`render.yaml` Infrastructure-as-Code), Linux / CUDA environments |
 
 ---
+### 🛠️ Languages, Frameworks, and Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,react,nodejs,express,mongodb,postgres,git,github,githubactions,vite,tailwind" />
+  </a>
+</p>
+---
 ## 📂 Featured Projects
 
 ### 🧠 Intelligent Systems & Machine Learning
