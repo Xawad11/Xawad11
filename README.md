@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Jawadul Hasan
 
-I am a final-year **Computer Science & Engineering (CSE)** student specializing in the intersection of **Intelligent Automation, Predictive Machine Learning, and Robust Full-Stack Systems**. My experience spans from architecting event-driven cloud applications and training calibrated transformer models to writing bare-metal firmware for microcontrollers. 
+I am a last semester **Computer Science & Engineering (CSE)** student specializing in the intersection of **Intelligent Automation, Predictive Machine Learning, and Robust Full-Stack Systems**. My experience spans from architecting event-driven cloud applications and training calibrated transformer models to writing bare-metal firmware for microcontrollers. 
 
 I thrive on bridging the gap between low-level hardware constraints, traditional transactional databases, and cutting-edge artificial intelligence.
 
