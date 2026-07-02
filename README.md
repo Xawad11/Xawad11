@@ -71,9 +71,3 @@ I thrive on bridging the gap between low-level hardware constraints, traditional
 *   🌐 **Deployment Approach:** Strong believer in Infrastructure-as-Code (IaC) blueprints to tie code environments cleanly to modern cloud providers.
 
 ---
-
-## 📫 Let's Connect!
-
-*   💼 **LinkedIn:** [Your Name / Profile Link](#)
-*   📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-*   🌐 **Portfolio Website:** [yourportfolio.com](#)
